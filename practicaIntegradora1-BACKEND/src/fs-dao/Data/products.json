@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "title": "producto prueba",
+            "description": "Este es un producto prueba",
+            "price": 200,
+            "thumbnail": "Sin imagen",
+            "code": "abc",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 1",
+            "description": "Este es un producto prueba 1",
+            "price": 200,
+            "thumbnail": "Sin imagen 1",
+            "code": "abc1",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 2",
+            "description": "Este es un producto prueba 2",
+            "price": 200,
+            "thumbnail": "Sin imagen 2",
+            "code": "abc2",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 3",
+            "description": "Este es un producto prueba 3",
+            "price": 200,
+            "thumbnail": "Sin imagen 3",
+            "code": "abc3",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 4",
+            "description": "Este es un producto prueba 4",
+            "price": 200,
+            "thumbnail": "Sin imagen 4",
+            "code": "abc4",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 5",
+            "description": "Este es un producto prueba 5",
+            "price": 200,
+            "thumbnail": "Sin imagen 5",
+            "code": "abc5",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 6",
+            "description": "Este es un producto prueba 6",
+            "price": 200,
+            "thumbnail": "Sin imagen 6",
+            "code": "abc6",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 7",
+            "description": "Este es un producto prueba 7",
+            "price": 200,
+            "thumbnail": "Sin imagen 7",
+            "code": "abc7",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 8",
+            "description": "Este es un producto prueba 8",
+            "price": 200,
+            "thumbnail": "Sin imagen 8",
+            "code": "abc8",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        },
+        {
+            "title": "producto prueba 9",
+            "description": "Este es un producto prueba 9",
+            "price": 200,
+            "thumbnail": "Sin imagen 9",
+            "code": "abc9",
+            "stock": 25,
+            "category": "box",
+            "status": true
+        }
+    ]
+}

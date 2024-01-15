@@ -1,0 +1,27 @@
+<div class="home_container">
+    <h1>Bienvenido a mi Api Rest</h1>
+    <div>
+        <h2>Podes consultar los siguientes Endpoints</h2>
+        <div class="endpoints_container">
+            <p class="endpoint_title">PRODUCTOS</p>
+            <a class="endpoint" href="/api/products?limit=2">GET: Obtener productos con un limite</a>
+            <a class="endpoint" href="/api/products/:pid">GET: Obtener producto por id</a>
+            <a class="endpoint" href="/api/products">POST: Agregar producto</a>
+            <a class="endpoint" href="/api/products/:pid">PUT: Modificar producto por id</a>
+            <a class="endpoint" href="/api/products/:pid">DELETE: Eliminar producto por id</a>
+        </div>
+
+        <div class="endpoints_container">
+            <p class="endpoint_title">CARTS</p>
+            <a class="endpoint" href="/api/carts">GET: Obtener lista de todos los carts</a>
+            <a class="endpoint" href="/api/carts/:cid">GET: Obtener carts por id</a>
+            <a class="endpoint" href="/api/carts">POST: Crear nuevo cart</a>
+            <a class="endpoint" href="/api/carts/:cid/products/:pid">POST: Agregar producto especifico a cart especifico</a>
+            <a class="endpoint" href="/api/carts/:cid">DELETE: Eliminar cart por id</a>
+        </div>
+
+        <div class="endpoints_container">
+            <p class="endpoint_title">CHAT</p>
+            <a class="endpoint" href="/chat">CHAT COMUNITARIO</a>
+        </div>
+    </div>
